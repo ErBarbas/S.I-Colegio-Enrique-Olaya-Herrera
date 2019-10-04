@@ -1,0 +1,30 @@
+@media (min-width: 1px) {
+    .cardStyle {
+        width: 88%;
+    }
+}
+
+@media (min-width: 576px) {
+    .cardStyle {
+        width: 77%;
+    }
+}
+
+@media (min-width: 768px) {
+    .cardStyle {
+        width: 66%;
+    }
+}
+
+@media (min-width: 992px) {
+    .cardStyle {
+        width: 55%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .cardStyle {
+        width: 44%;
+    }
+}
+

@@ -1,0 +1,65 @@
+body{
+
+    background-image: url("../imagenes/fondo.jpg");
+
+}
+
+.contenedor{
+
+    margin: 0 auto;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    background-color: rgba(20,25,30,0.65);
+    box-sizing: border-box;
+
+}
+
+.contenedor h3{
+
+    padding-top: 1%;
+
+}
+
+.contenedor img{
+
+    margin-bottom: 7%;
+    box-sizing: border-box;
+    border: 2px solid transparent;
+
+}
+
+.contenedor img:hover{
+
+    border: 2px solid dodgerblue;
+
+}
+
+#lkProf{
+    
+    display: none;
+    
+}
+
+.icons{
+
+    font-size: 33px;
+
+}
+
+.actions{
+
+    font-size: 21px;
+
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.fs{
+
+    font-size: 21px;
+
+}
